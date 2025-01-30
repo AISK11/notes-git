@@ -44,3 +44,14 @@
     ```sh
     git reset --hard && git clean -fxd
     ```
+
+### Remote
+
+- Push commits to git platform:
+    ```sh
+    git push
+    ```
+- Obtain commits from git platform:
+    ```sh
+    git pull
+    ```

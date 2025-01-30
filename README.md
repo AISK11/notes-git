@@ -7,5 +7,5 @@
 1. Git:
     1. [Setup](notes/setup.md)
     1. [Usage](notes/usage.md)
-1. Git hosting platforms:
+1. Git platforms:
     - GitHub
