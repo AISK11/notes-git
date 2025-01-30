@@ -18,7 +18,7 @@
 
 ## Configuration
 
-1. Configure Git:
+1. Global user configuration file:
     - `~/.gitconfig`
         ```gitconfig
         [init]
